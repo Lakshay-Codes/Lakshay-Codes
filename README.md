@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakshay Nijhawan</h1>
+<h1 align="center">Hi 👋, I'm Lakshay Nijhawan (DTU COE 2025)</h1>
 <h3 align="center">Driven by a profound curiosity for technology, I excel in computer engineering, consistently attaining top grades. Proficient in programming and full-stack web development, I tackle challenges with ingenuity and precision. Dedicated to ongoing growth, I aim to pioneer advancements within the ever-evolving field of computer engineering.</h3>
 
 - 🌱 I’m currently learning **NextJS**
