@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lakshay Nijhawan (DTU COE 2025)</h1>
 <h3 align="center">Driven by a profound curiosity for technology, I excel in computer engineering, consistently attaining top grades. Proficient in programming and full-stack web development, I tackle challenges with ingenuity and precision. Dedicated to ongoing growth, I aim to pioneer advancements within the ever-evolving field of computer engineering.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshay-codes&label=Profile%20views&color=0e75b6&style=flat" alt="lakshay-codes" /> </p>
+
 - 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://lakshaynijhawanportfolio.netlify.app/](https://lakshaynijhawanportfolio.netlify.app/)
